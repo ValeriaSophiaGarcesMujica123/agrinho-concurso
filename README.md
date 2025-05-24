@@ -1,3 +1,5 @@
+RELATÒRIO SOBRE O PROJETO(AGRINHO 2025)
+
 Durante o desenvolvimento da minha página, utilizei as linguagens HTML, CSS e JavaScript. O processo durou cerca de duas semanas, período no qual aprendi bastante — tanto do ponto de vista técnico quanto na organização e estruturação do conteúdo.
 
 Para compor os textos e desenvolver as ideias do site, busquei inspiração em diversas fontes, como textos informativos, pesquisas e vídeos, sempre com o objetivo de oferecer um conteúdo claro, relevante e acessível.
